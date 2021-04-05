@@ -26,10 +26,9 @@ import io as io
 from skimage import io as skimage_io 
 import urllib
 
-!pip install anvil-uplink
 import anvil.media
 import anvil.server
-anvil.server.connect("YA6JKGHCNQ5PLAOLCLZOPJS5-4IUH7CMMIZ3AABLA")
+
 
 # Constants 
 
@@ -44,8 +43,6 @@ i_img = -1
 path = '/content/drive/MyDrive/images/'
 img_names = ['pelicans.jpg', 'buildings.jpg', 'couple.jpg', 'couple2.jpg', 'road.jpg', 'beach.jpg']
 
-from google.colab import drive
-drive.mount('/content/drive/')
 
 # Gets img as numpy array 
 # Return energy map E1
