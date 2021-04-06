@@ -1,9 +1,6 @@
-## seam-carving Algorithm Implementation 
+# seam-carving Algorithm Implementation 
 
-link to test:
-https://seam-carving.anvil.app
-
-Or alternatively open the colab notebook to explore
+## To run the project clone the code to notebook (colab/jupiter) and test with the sample code in the end
 
 # Sample image
 <img width="637" alt="img_o" src="https://user-images.githubusercontent.com/63349042/113577934-bc7c7d00-962a-11eb-9d50-9c8c475d759c.png">
